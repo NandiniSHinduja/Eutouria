@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Samples/Scenes/WorldSensing/SurfaceTracking_ImageTarget.unity
+    guid: 647dd780d097cf84da4ba6e56371e912
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingARFamousSpotsScene.unity
+    guid: 6e3c5db064ff98149bb0c7971e93f37a
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingEiffelTowerScene.unity
+    guid: 55fb3cb9a3779d64ea1b73858f33beba
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingWillyScene.unity
+    guid: 4ea7f4f7a0763fd4f908288b62935ba6
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingMansfieldScene.unity
+    guid: 02efa6b42616dba448178e75126bdb03
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingNarniaScene.unity
+    guid: 49f4ff879086cb0468e65143fc70457a
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingThornfieldScene.unity
+    guid: b6acb51bb93cca54fab8381db697c551
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingHanselScene.unity
+    guid: f474b11c127b70842946f0c3b537efb4
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingHarry.unity
+    guid: 4e61cf063d2f5ed4fa4d4f15362b327d
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingBrian.unity
+    guid: fcf1db3d34bb8f543a1e030302945414
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingFanny.unity
+    guid: c936ef3b244095d4eba528876da3f9cc
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingSusan.unity
+    guid: 5f64a87ce9067f7448ead1efb11e0e17
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingSulejmanScene.unity
+    guid: 1aa16c7b83d9bd843972976d9626ac1d
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingFerhatScene.unity
+    guid: 9b677ae1c601a734e9e09aa5207c5a66
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingParthenonScene.unity
+    guid: 49e23773bb8e94547bfbf64fa77f752a
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingPisaScene.unity
+    guid: 2d0023329e025eb41a87e15200331db8
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingHogwartsScene.unity
+    guid: 8cbec840f4cddc946a5b1cecad7a85ca
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingCologneScene.unity
+    guid: 178cc03317e4f734b87d6eb961f56f3e
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingNicholasScene.unity
+    guid: 9e151ebce8de8db4588e2befde4ce305
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingPragueScene.unity
+    guid: ed56b46efadb4f54e84f106a66ed6ffc
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingStephenScene.unity
+    guid: 33b3f025ad1182c4e85fc765c2ca704f
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingTownScene.unity
+    guid: 181883fd59e5d714abd6a05fdbc09463
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingWitch.unity
+    guid: 6a1023ce7df494a4cb7a853412af99af
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingWillyWonka.unity
+    guid: d4f4067607e683244a284f74bb9d4b26
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingLolita.unity
+    guid: 886a0006b554f9b42aec229b9875dd27
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingChris.unity
+    guid: 207176bbf1fd9d540bc64ce1821cd871
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingHenry.unity
+    guid: 03e0c2c837ad4d24cb89870827e90dc4
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingJane.unity
+    guid: 1ad8d8679e4f5b94fbedb436ad0eeb05
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingLucy.unity
+    guid: acf196c5f62db69458cd7f5319641e70
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingJoann.unity
+    guid: e9a10b61e04384d438bb981f7bc8b2fa
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingNicola.unity
+    guid: 7e9a82cec1aab074989f6b78f5ed884b
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingMargaret.unity
+    guid: 58a1b0e7d432c264ba73cb625dc54770
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingNina.unity
+    guid: eceb7f9d11bac0f438443ad9b5f350c7
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingRalph.unity
+    guid: 55f21386682c2c542a404b3dafe5f84d
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingSoraya.unity
+    guid: e445189952ec5a3458c4613473f15cc8
+  - enabled: 1
+    path: Assets/Scenes/SurfaceTrackingThomas.unity
+    guid: ac82545ae51309d4da98633c2d842e01
+  m_configObjects: {}
